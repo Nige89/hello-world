@@ -1,3 +1,5 @@
 # hello-world
+
 work in progress
-just training
+
+just training. its kida tuff still
